@@ -4,7 +4,7 @@
 [Dong Du](https://dongdu3.github.io/), Zhiyi Zhang, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
 Published in 2020 International Conference on 3D Vision (3DV).  
 
-<img src="figures/teaser_1.png" alt="teaser_1.png" style="zoom:10%" /><img src="figures/teaser_2.png" alt="teaser_2.png" style="zoom:10%" />
+<img src="figures/teaser_1.png" alt="teaser_1.png" style="zoom:3%" /><img src="figures/teaser_2.png" alt="teaser_2.png" style="zoom:3%" />
 
 ---
 
@@ -12,7 +12,7 @@ Published in 2020 International Conference on 3D Vision (3DV).
 
 This implementation has been tested on Ubuntu 18.04, using Pythton 3.6.9, CUDA 10.0, PyTorch 1.2.0, and etc. I apologize for not having the time to sort through these files. Please refer to our paper to use them.
 
-<img src="figures/pipeline.png" alt="pipeline.png" style="zoom:30%" />  
+<img src="figures/pipeline.png" alt="pipeline.png" style="zoom:33%" />  
 
 To train the code, please install several external libraries.
 
